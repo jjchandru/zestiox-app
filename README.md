@@ -109,6 +109,7 @@ Welcome to Zestiox, a modern and responsive food ordering app designed for a sea
 
 ## Cart
 
+![Desktop Cart](desktop-cart.png)
 ![Mobile Cart](mobile-cart.png)
 
 - **Purpose:** Allows users to review and manage items before placing an order.
