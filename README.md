@@ -23,7 +23,14 @@ Zestiox has to be built with a modern, scalable architecture:
 
 - **Frontend:** Angular (TypeScript) for a responsive, dynamic user interface.
 - **Backend:** Python with Flask for RESTful APIs and business logic.
-- **Database:** MySQL (accessed via Python) for reliable and lightweight data storage.
+- **Database:** MySQL (accessed via Python) for reliable and scalable data storage.
+
+---
+
+# Starter Projects
+
+- **Angular Frontend Skeleton:** [github.com/jjchandru/zestiox-ng](https://github.com/jjchandru/zestiox-ng)
+- **Python Flask Backend Skeleton:** [github.com/jjchandru/zestiox-backend-py](https://github.com/jjchandru/zestiox-backend-py)
 
 ---
 
